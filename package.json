@@ -1,0 +1,23 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShirleyYoung19/algorithm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShirleyYoung19/algorithm/issues"
+  },
+  "homepage": "https://github.com/ShirleyYoung19/algorithm#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
